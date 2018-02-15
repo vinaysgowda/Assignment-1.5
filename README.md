@@ -1,3 +1,5 @@
+List the Components of Hadoop 2.x and explain each component in detail. 
+
 The components of Hadoop 2.x are:
 
 1) HDFS - Haddop Distributed File System
@@ -7,7 +9,11 @@ The components of Hadoop 2.x are:
  and distributes them across the cluster. Each blocks is replicated 3 times as per default configuration 
  multiple times and is stored on different nodes to ensure data availability. 
 
- HDFS in Hadoop 2.x mainly has 3 daemons which are Name Node, Secondary Name Node and Data Node.
+ HDFS in Hadoop 2.x mainly has 3 daemons 
+ which are 
+ Name Node, 
+ Secondary Name Node and 
+ Data Node.
 
  a) Name Node
 
